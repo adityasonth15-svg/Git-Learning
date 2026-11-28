@@ -1,2 +1,3 @@
 # The variables are name giving to memory location
 # variable = container
+# data type = type of data that can be stored in the variable
